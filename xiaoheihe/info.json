@@ -2,6 +2,6 @@
     "name": "小黑盒表情包",
     "prefix": "xhh_",
     "type": "png",
-    "icon": "smile",
-    "items": ["xhh_cube1", "xhh_cube2", "xhh_cube3", "xhh_cube4", "xhh_cube5", "xhh_cube6", "xhh_cube7", "xhh_cube8", "xhh_cube9", "xhh_cube10", "xhh_cube11", "xhh_cube12", "xhh_cube13", "xhh_cube14", "xhh_cube15", "xhh_cube16", "xhh_cube17", "xhh_cube18", "xhh_cube19", "xhh_cube20", "xhh_cube21", "xhh_cube22", "xhh_cube23", "xhh_cube24", "xhh_cube25", "xhh_cube26", "xhh_cube27", "xhh_cube28", "xhh_cube29", "xhh_cube30", "xhh_cube31", "xhh_cube32", "xhh_cube33", "xhh_cube34", "xhh_cube35", "xhh_cube36", "xhh_cube37"]
+    "icon": "cube21",
+    "items": ["cube1", "cube2", "cube3", "cube4", "cube5", "cube6", "cube7", "cube8", "cube9", "cube10", "cube11", "cube12", "cube13", "cube14", "cube15", "cube16", "cube17", "cube18", "cube19", "cube20", "cube21", "cube22", "cube23", "cube24", "cube25", "cube26", "cube27", "cube28", "cube29", "cube30", "cube31", "cube32", "cube33", "cube34", "cube35", "cube36", "cube37"]
   }
