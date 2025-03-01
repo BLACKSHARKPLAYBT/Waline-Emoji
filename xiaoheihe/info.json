@@ -1,10 +1,7 @@
 {
     "name": "小黑盒表情包",
     "prefix": "xhh_",
-    "type": "jpg",
+    "type": "png",
     "icon": "smile",
-    "items": ["study", "hp", "goodman", "kong","lessglasses","liu","momo","fool","kun","smile","love","glasses","angry","celebrate","look","ok","surprise",
-    "bag","good","uphand","noidea","superangry","tear","what","nomouse","sad","wronged","feat","truth","noreply","rainbow","terrible","doge","sigh","sympathize","","","",
-    "sheep","black","shade","fear","feel","joy","ru","grass","duck","heart","wave","vomit","wish","no","bblack","sleep","tu","celebrate2","exit",
-    "gu","bfly","cheer","tree"]
+    "items": ["xhh_cube1", "xhh_cube2", "xhh_cube3", "xhh_cube4", "xhh_cube5", "xhh_cube6", "xhh_cube7", "xhh_cube8", "xhh_cube9", "xhh_cube10", "xhh_cube11", "xhh_cube12", "xhh_cube13", "xhh_cube14", "xhh_cube15", "xhh_cube16", "xhh_cube17", "xhh_cube18", "xhh_cube19", "xhh_cube20", "xhh_cube21", "xhh_cube22", "xhh_cube23", "xhh_cube24", "xhh_cube25", "xhh_cube26", "xhh_cube27", "xhh_cube28", "xhh_cube29", "xhh_cube30", "xhh_cube31", "xhh_cube32", "xhh_cube33", "xhh_cube34", "xhh_cube35", "xhh_cube36", "xhh_cube37"]
   }
