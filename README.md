@@ -8,4 +8,4 @@
 
 ### **小黑盒盒娘表情包**
 
-**表情包链接 ** **https://cdn.jsdelivr.net/gh/BLACKSHARKPLAYBT/Waline-Emoji@v1.0.3/heniang**
+**表情包链接** **https://cdn.jsdelivr.net/gh/BLACKSHARKPLAYBT/Waline-Emoji@v1.0.3/heniang**
